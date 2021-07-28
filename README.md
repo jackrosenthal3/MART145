@@ -34,5 +34,5 @@ xcode-select --install
 
 brew install git
 
-git --version
+git --version<br>
 (If the version command doesn't give any errors then git was successfully installed and you should be able to connect remotely)
