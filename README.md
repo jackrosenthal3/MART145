@@ -10,10 +10,10 @@ trying to download the zip and if that doesn't work try some of the stuff below.
 
 -Jack (Alec)
 
-Github CLI Application download:
+Github CLI Application download:<br>
 https://cli.github.com/
 
-Copy a repository using HTTPS:
+Copy a repository using HTTPS:<br>
 https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
 
 Copy a repository using an SSH key:
