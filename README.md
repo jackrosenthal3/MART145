@@ -16,15 +16,15 @@ https://cli.github.com/
 Copy a repository using HTTPS:<br>
 https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
 
-Copy a repository using an SSH key:
-Linking SSH key to github:
-https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-Copy repo using SSH key:
-https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories
+Copy a repository using an SSH key:<br>
+Linking SSH key to github:<br>
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent<br>
+Copy repo using SSH key:<br>
+https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories<br>
 
-Installing Github locally and its dependencies:
-https://docs.gitlab.com/ee/topics/git/how_to_install_git/index.html
-https://brew.sh/index.html
+Installing Github locally and its dependencies:<br>
+https://docs.gitlab.com/ee/topics/git/how_to_install_git/index.html<br>
+https://brew.sh/index.html<br>
 
 If all else fails type the following commands into your command terminal:
 
