@@ -1,0 +1,24 @@
+table{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 20px;
+}
+
+
+tr{
+
+}
+
+td{
+	
+	
+}
+
+.left{
+	text-align: right;
+}
+
+.right{
+	padding-right: 60px;
+}
